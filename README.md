@@ -1,51 +1,5 @@
 
-> 🌹📍Versión Del Bot: 1.0.7
-
-### Sakura : Bot - Lite - MD 🌸
-<p align="center">
-<img src="https://telegra.ph/file/9379ac50c5285dc976e2e.png" alt="Bot-WhatsApp" width="900"/>
-</p>
-
-### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Prueba El Bot Aqui" width="42" height="42"> Prueba El Bot Aqui
-
-> Si Deseas Probar El Bot Antes De Instalarlo, Click Abajo.🟢
-
-<a href="https://chat.whatsapp.com/Eaa9JFA53ps7WHMv2VHbO9"><img alt="📍 Grupo Oficial" src="https://img.shields.io/badge/Grupo-Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-
-- ### 🌤Configuracion🧩
- Clonar Repo : SakuraBot [Aqui.](https://github.com/diegojadibot/SakuraBotLite-MD/fork)
-
-   
-  
-- ### 🧸Instalar Por Render🧩
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2diegojadibot%2FSakuraBotLite-MD) 
-
-- ### 📍Instalar Por Code Space🧸
-
-[`CREAR SERVIDOR`](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=738341999&ref=main&geo=UsEast)
-***
-
-- #### 📍Instalacion Por Termux Automatica🧸
-
-[![blog](https://img.shields.io/badge/Instalacion-Automatica-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/X-wQbVhLb8w?si=UdP9uM5SPFRY75nU)
-
-[`🧩 Instalar Termux Clic Aqui`](https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file)
- 
-```bash
-termux-setup-storage
-```
-
-```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/diegojadibot/SakuraBotLite-MD/master/sakura.sh | bash
-```
-
-- #### 📍Instalacion Por Termux Manual👨‍💻
-
-[![blog](https://img.shields.io/badge/Instalacion-Manual-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/9-v4XwMTJYE?si=STdO2GwZR1GAmXfA)
+> version del bot 1.1
 
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
